@@ -1,0 +1,1 @@
+@extends('adminlte::register') <!-- vendor/jeroennoten/laravel-adminlte/resources/views/register.blade.php -->
